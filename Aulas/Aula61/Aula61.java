@@ -3,7 +3,7 @@ package Aulas.Aula61;
 import java.util.Locale;
 import java.util.Scanner;
 
-import Aulas.Antities.Triangle;
+import Aulas.Entities.Triangle;
 
 public class Aula61 {
     public static void main(String[] args) {

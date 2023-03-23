@@ -1,4 +1,4 @@
-package Aulas.Antities;
+package Aulas.Entities;
 
 public class product {
     
